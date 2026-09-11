@@ -104,8 +104,3 @@ results/<dataset>/
 │   └── metrics.csv
 └── ...
 ```
-
-## Notes
-
-- The code is provided without dataset files. Please ensure that dataset redistribution and sequence-model access comply with the relevant data and model licenses.
-- Random seeds are fixed for reproducibility. GPU kernels can still differ slightly across hardware and CUDA/PyTorch versions.
