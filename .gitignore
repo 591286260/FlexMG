@@ -1,0 +1,24 @@
+# Data and generated experiment artifacts
+dataset/
+results/
+_experiment_work/
+*.pt
+*.pth
+*.ckpt
+
+# Hugging Face and Python caches
+hf_cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environments and editors
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
