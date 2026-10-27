@@ -1,4 +1,4 @@
-# Leakage-safe multi-scale graph learning for circRNA-disease association prediction
+# FlexMG: A multiscale graph learning framework for circRNA-disease association prediction
 
 This repository contains the core implementation used for circRNA-disease association (CDA) prediction. The model combines circular-aware RNA sequence features, fold-specific disease GIP features, multi-scale bipartite graph encoding, graph attention, representation consistency regularization, and an MLP edge predictor.
 
